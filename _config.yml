@@ -1,15 +1,12 @@
 # Created by Jekyll Writer
 title: 于成
-author: Jekyll Writer
+author: 于成学习笔记
 description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
+  河北银行友南支行
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
-gems:
-  - jekyll-paginate
+twitter_username: aceo
+github_username: hebbank
 markdown: kramdown
 baseurl: /jekyll
