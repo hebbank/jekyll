@@ -1,8 +1,8 @@
 # Created by Jekyll Writer
-title: 于成
-author: 于成学习笔记
+title: 图批金融
+author: pos
 description: >
-  河北银行友南支行
+  图批金融
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
