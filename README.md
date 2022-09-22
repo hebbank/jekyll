@@ -1,3 +1,1 @@
-Created by Jekyll Writer  \
-
-sd
+Created by Jekyll Writer
